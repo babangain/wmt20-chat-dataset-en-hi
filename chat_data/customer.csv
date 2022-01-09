@@ -1,0 +1,232 @@
+,id,utteranceID,Source,Target
+1,dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6,1,"नमस्ते। मैं ह्यूस्टन, टेक्सास में एएमसी ह्यूस्टन 8 में मूवी टिकट खरीदने की कोशिश कर रहा हूं।","Hi. I'm trying to buy movie tickets at the AMC Houston 8 in Houston, Texas."
+2,dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6,2,मैं उम्मीद कर रहा था कि आप उस ऑर्डर को प्लेस करने में मेरी मदद कर सकते हैं।,I was hoping you could help me place that order.
+4,dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6,4,ग्लास,glass.
+6,dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6,6,हां प्लीज,"Yes, please."
+7,dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6,7,और दो टिकट। शाम 7:00 बजे के दो टिकट।,And two tickets. Two tickets to the 7:00 p.m.
+10,dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6,10,हां जल्दी करें।,"Yeah, go ahead."
+14,dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6,14,मुझे लगता है कि बस सब हो गया।,I think that's it.
+16,dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6,16,धन्यवाद।,Thank you.
+18,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,1,अच्छा हूं। आप कैसे हैं?,Good. How are you?
+20,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,3,क्या आप सैक्रामेंटो में लंच के लिए जगह खोजने में मेरी मदद कर सकते हैं?,Could you help me with a place to find lunch in Sacramento?
+22,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,5,मैं आर्डेन केयर मॉल के अंदर हूं।,I'm inside Arden Care mall.
+24,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,7,"मैं बहुत पिकी नहीं हूं, लेकिन मुझे ऐसा कुछ भी नहीं चाहिए जो बहुत महंगा हो। यह बहुत सस्ता होना भी जरूरी नहीं है। ऐसा कुछ भी नहीं जो बहुत महंगा हो। और साथ ही, ऐसा कुछ आवश्यक भी नहीं है।","I'm not too picky, but I don't want anything that is too expensive. It doesn't have to be too cheap either. Just nothing that is super expensive. And also, nothing that requires"
+25,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,8,जैसे कि फैंसी ड्रेस।,like a fancy dress.
+26,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,9,"और साथ ही, मैं नहीं चाहता कि यह उस मॉल से बहुत दूर हो जहां मैं अभी हूं, शायद 10 मीनट के अंदर।","And also, I don't want it to be too far away from the mall where I am now, so maybe within 10 mi."
+28,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,11,सी फूड के बारे में क्या कहते हैं?,How about seafood?
+31,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,14,क्या आप मुझे दोनों रेस्तरां का प्राइस रेंज बता सकते हैं?,Could you tell me the price range of both restaurants?
+33,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,16,ठीक है बहुत बढ़िया। और क्या आप मुझे बता सकते हैं कि दोनों रेस्तरां के लिए ग्राहक रेटिंग क्या है?,"Okay, great. And could you tell me what the customer rating is for both restaurants?"
+35,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,18,ठीक है। मुझे लगता है कि मैं इनट्रेस्टेड हूं। क्या आप मुझे बता सकते हैं कि उनका फोन नंबर क्या है?,Okay. I think I'm interested. Could you tell me what their phone number is?
+37,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,20,ठीक है बहुत बढ़िया। आपकी मदद और रेस्तरां का पता लगाने के लिए बहुत-बहुत धन्यवाद।,"Okay, great. Thank you so much for your help and figuring out a restaurant."
+39,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,22,"धन्यवाद, मुझे यकीन है कि मैं करूँगा।","Thanks, I'm sure I will."
+41,dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004,24,धन्यवाद।,Thanks.
+43,dlg-097887e5-303c-4757-80e6-dd4630621f09,1,हाय। मैं कुछ मूवी टिकट बुक करना चाहता हूं।,Hi. I'm looking to book some movie tickets.
+45,dlg-097887e5-303c-4757-80e6-dd4630621f09,3,ग्लास,Glass.
+48,dlg-097887e5-303c-4757-80e6-dd4630621f09,6,आज दोपहर का।,In the afternoon today.
+49,dlg-097887e5-303c-4757-80e6-dd4630621f09,7,"व्हिटियर, कैलिफ़ोर्निया।","Whittier, California."
+52,dlg-097887e5-303c-4757-80e6-dd4630621f09,10,नहीं यह ठीक है।,"No, that's fine."
+54,dlg-097887e5-303c-4757-80e6-dd4630621f09,12,तीन,three.
+56,dlg-097887e5-303c-4757-80e6-dd4630621f09,14,"हाँ, क्या आप मुझे बता सकते हैं कि फिल्म का निर्देशन किसने किया है?","Yeah, could you tell me who directed the movie?"
+58,dlg-097887e5-303c-4757-80e6-dd4630621f09,16,ठीक है।,Okay.
+59,dlg-097887e5-303c-4757-80e6-dd4630621f09,17,आगे बढ़ो और टिकट बुक करो।,Go ahead and book the tickets.
+61,dlg-097887e5-303c-4757-80e6-dd4630621f09,19,एक अलग शो टाइम बुक करें।,Book a different show time.
+63,dlg-097887e5-303c-4757-80e6-dd4630621f09,21,क्या 550 आपके लिए सही है? हां।,Is 550 well for you? Yes.
+65,dlg-097887e5-303c-4757-80e6-dd4630621f09,23,ठीक है! सही लग रहा है।,"Okay, sounds good."
+67,dlg-097887e5-303c-4757-80e6-dd4630621f09,25,धन्यवाद।,Thank you.
+68,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,0,नमस्ते। कैसा चल रहा है?,Hi. How's it going?
+71,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,3,"मैं बहुत बढ़िया हूँ। मैं बेलुनो से तीन मीडियम पिज्जा ऑर्डर करना चाहता हूं, प्लीज।","I'm great. I'd like to order three medium pizzas from Belluno, please."
+73,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,5,मैं जानना चाहता हूं कि क्या बोन में अच्छा चीज़ है क्या?,I would like to know does does bone have good cheese?
+75,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,7,"ठीक है, मैं गोट चीज़, चेडर चीज़, आर्टी चिप्स और बेकन खाना चाहूँगा।","Okay, I'd like to have goat cheese, cheddar cheese, arty chips, and bacon."
+78,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,10,क्या बेला लूना में झींगा है?,Does Bella Luna have shrimp?
+80,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,12,"ठीक है, मैं ठीक हूँ, मैं इस पिज़्ज़ा पर चाहूँगा मुझे एक्स्ट्रा मशरूम, चेडर चीज़ चाहिए।","All right, I will All right, I would like to have on on this pizza I would like extra mushrooms, cheddar cheese."
+81,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,13,एक्सट्रा बेकन।,extra bacon.
+82,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,14,"और बारबेक्यू सॉस, प्लीज।","And barbecue sauce, please."
+84,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,16,मैं पसंद करूँगा।,I would like to have.
+85,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,17,क्या उनके पास मैक्सिकन-स्टाइल पिज्जा है?,Do they have a Mexican-style pizza?
+87,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,19,ठीक है एक सेकंड।,"K, one moment."
+88,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,20,शाकाहारी पिज़्ज़ा क्या होता है वेजी लवर्स के पिज़्ज़ा में क्या होता है?,What does the vegetarian pizza What does the veggie lover's pizza have on it?
+90,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,22,"ठीक है, मैं वह करूँगा और मैं एक्ट्रा  चीज़ और सभी पिज़्ज़ा लूँगा, प्लीज। और मैं वेजी लवर्स के लिए ओरियो चॉक्स डालूंगा।","Okay, I will I will do that and I'll take extra cheese and all of the pizzas, please. And I'll add oreo chocs to the veggie lovers."
+93,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,25,"यह सही है, धन्यवाद।","That's correct, thank you."
+95,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,27,"हां, जरुर","Yes, please."
+98,dlg-11dd7e6e-6212-4217-9870-45c0085a4193,30,यह काफी होगा। आपकी मदद के लिए बहुत बहुत धन्यवाद।,That would be all. Thank you so much for your help.
+101,dlg-123232f5-a22d-4d36-876a-f3f4d32720ab,1,हाय असिस्टेंट। मैं एक पीट्स कैफे मोचा ऑर्डर करना चाहता/चाहती हूं।,Hi assistant. I would like to order a Peet's cafe mocha.
+103,dlg-123232f5-a22d-4d36-876a-f3f4d32720ab,3,"मैं फोर्ट वर्थ, टेक्सास में हूं।","I'm located in Fort Worth, Texas."
+105,dlg-123232f5-a22d-4d36-876a-f3f4d32720ab,5,"मुझे एक मीडियम चाहिए, जैसे 2% दूध, और एक्सट्रा अतिरिक्त चीनी, और व्हिप क्रीम।","I'd like a medium, like 2% milk, and extra sugar, and whip cream."
+108,dlg-123232f5-a22d-4d36-876a-f3f4d32720ab,8,हाँ आपने किया।,"Yes, you did."
+110,dlg-123232f5-a22d-4d36-876a-f3f4d32720ab,10,"हां, जरुर","Yes, please."
+113,dlg-123232f5-a22d-4d36-876a-f3f4d32720ab,13,आज और कुछ नहीं।,Nothing else today.
+116,dlg-123232f5-a22d-4d36-876a-f3f4d32720ab,16,आप को भी। धन्यवाद।,"You, too. Thank you."
+119,dlg-1325a404-1c1b-47ac-8a98-c968919c0459,2,मुझे इटालियन सॉसेज और एक्स्ट्रा चीज़ थिन क्रस्ट के साथ एक लार्ज पिज़्ज़ा चाहिए।,I would like one pizza large with Italian sausage and extra cheese thin crust.
+120,dlg-1325a404-1c1b-47ac-8a98-c968919c0459,3,बेला लूना।,Bella Luna.
+123,dlg-1325a404-1c1b-47ac-8a98-c968919c0459,6,हां,Yes.
+126,dlg-1325a404-1c1b-47ac-8a98-c968919c0459,9,हां,Yes.
+128,dlg-1325a404-1c1b-47ac-8a98-c968919c0459,11,धन्यवाद।,Thank you.
+130,dlg-1325a404-1c1b-47ac-8a98-c968919c0459,13,हां,Yes.
+133,dlg-1325a404-1c1b-47ac-8a98-c968919c0459,16,ङे।,hey.
+134,dlg-1325a404-1c1b-47ac-8a98-c968919c0459,17,बस इतना ही।,That is all.
+138,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,1,"हाँ, मैं ढूंढ रहा हूँ","Yes, I'm looking for"
+139,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,2,सैन फ्रांसिस्को में सिट-डाउन रेस्तरां।,sit-down restaurant in San Francisco.
+141,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,4,मैं सैन फ़्रांसिस्को में सिट-डाउन रेस्टोरेंट ढूंढ रहा हूं।,I'm looking for a sit-down restaurant in San Francisco.
+143,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,6,"या तो सी फूड , मैक्सिकन या चाइनीज।","Either seafood, Mexican or Chinese."
+146,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,9,एक चाइनीज रेस्तरां के बारे में क्या खयाल है?,How about a Chinese restaurant?
+147,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,10,"मुझे खेद है, मैंने गड़बड़ कर दिया।","I Am sorry, I messed it up."
+150,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,13,क्या वे देर तक खुले रहते हैं?,Are they open late?
+152,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,15,प्राइस रेंज क्या है?,What is the price range?
+154,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,17,क्या वे रीजर्वेशन लेते हैं?,Do they take reservations?
+156,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,19,"हाँ, खाली जगह।","Yes, the empty space."
+158,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,21,दो लोग।,two people.
+159,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,22,कल रात 7:00 बजे,tomorrow night at 7:00 p.m.
+161,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,24,क्या उनके पास कमरे उपलब्ध हैं?,Do they have rooms available?
+163,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,26,मुझे मिशन चाइनीज के बारे में बताएं। क्या वे वहां कॉकटेल सर्व करते हैं?,Well tell me about the Mission Chinese. Do they serve cocktails there?
+166,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,29,हां। क्या उनके पास बूथ हैं?,Yes. Do they have booths?
+169,dlg-17946c6b-85c1-475a-9313-2847f36d1c41,32,धन्यवाद।,Thank you.
+172,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,1,ठीक है। मुझे इंटेलिजेंट ऑटो इम्पोर्ट्स पर अपनी कार के लिए अपॉइंटमेंट लेना है।,Okay. I need to make an appointment for my car at Intelligent Auto Imports.
+174,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,3,"हाँ, जेम्स पैटन 916-555-4675।","Yes, James Patton 916-555-4675."
+176,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,5,916-555-4675,916-555-4675
+178,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,7,ए एम ओ एस,A m o s.
+180,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,9,"यह सही है, और यदि संभव हो तो मैं अगले शुक्रवार को चाहूंगा।","That's correct, and I'd like next Friday if possible."
+182,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,11,"हाँ, लाइट का एक बंच काम नहीं कर रहा है।","Yeah, a bunch of the lights aren't working."
+184,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,13,एक्सटेरियर,Exterior.
+186,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,15,बस रिप्लेस करना है।,Just replacement.
+188,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,17,यह 2009 की बीएमडब्ल्यू 325 है।,It's a 2009 BMW 325.
+190,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,19,यह सही है।,That's correct.
+193,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,22,यह बढ़िया समझ में आ रहा है।,That sounds fine.
+195,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,24,"हाँ, यह ठीक लग रहा है।","Yeah, that sounds good."
+197,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,26,"हाँ, यह सब सही है।","Yep, that's all correct."
+199,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,28,"हाँ, मैं इस स्थान से परिचित हूँ।","Yeah, I'm familiar with its location."
+201,dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330,30,"नहीं, यह वो करेगा। धन्यवाद।","No, that will do it. Thanks."
+203,dlg-272c04e5-a836-44e5-97ae-29334835f111,0,"मैं बेला लूना से दो मीडियम पिज्जा ऑर्डर करना चाहता हूं, प्लीज।","I'd like to order two medium pizzas from Bella Luna, please."
+205,dlg-272c04e5-a836-44e5-97ae-29334835f111,2,थिक क्रस्ट,thick crust.
+206,dlg-272c04e5-a836-44e5-97ae-29334835f111,3,"मुझे एक मीट लवर के साथ बेकन और जलापेनोस और जैतून चाहिए, प्लीज।","I would like a meat lover's with with bacon and jalapeños and olives, please."
+208,dlg-272c04e5-a836-44e5-97ae-29334835f111,5,दूसरे के लिए।,For the other one.
+210,dlg-272c04e5-a836-44e5-97ae-29334835f111,7,क्या कोई पिज्जा है जिसमें आर्टिचोक है?,Is there a pizza that has artichokes?
+211,dlg-272c04e5-a836-44e5-97ae-29334835f111,8,"ठीक है, मैं अपना खुद का कस्टम पिज़्ज़ा बनाऊँगा, प्लीज।","Okay, I'll build my own custom pizza, please."
+213,dlg-272c04e5-a836-44e5-97ae-29334835f111,10,"आर्टिचोक, बेकन।","artichokes, bacon."
+215,dlg-272c04e5-a836-44e5-97ae-29334835f111,12,अनानास।,pineapple.
+216,dlg-272c04e5-a836-44e5-97ae-29334835f111,13,एक्स्ट्रा सॉस।,extra sauce.
+217,dlg-272c04e5-a836-44e5-97ae-29334835f111,14,"एक्स्ट्रा मशरूम के साथ, प्लीज।","With extra mushrooms, please."
+218,dlg-272c04e5-a836-44e5-97ae-29334835f111,15,"और चीज़, और वह सब होगा।","And cheese, and that will be all."
+219,dlg-272c04e5-a836-44e5-97ae-29334835f111,16,"शानदार लग रहा है, धन्यवाद।","Sounds fantastic, thank you."
+221,dlg-272c04e5-a836-44e5-97ae-29334835f111,18,"मैं इसे उठा लूंगा, प्लीज।","I'll pick that up, please."
+222,dlg-272c04e5-a836-44e5-97ae-29334835f111,19,"हां। वे दो मीडियम थिक क्रस्ट हैं, है ना?","Yes. Those are two medium thick crust, correct?"
+224,dlg-272c04e5-a836-44e5-97ae-29334835f111,21,"ठीक है, शानदार। बहुत - बहुत धन्यवाद।","All right, fantastic. Thank you so much."
+226,dlg-272c04e5-a836-44e5-97ae-29334835f111,23,"शानदार। आपकी रात अच्छे से कटे, आप सबसे अच्छे हैं।","Fantastic. Have a nice night, you're the best."
+228,dlg-272c04e5-a836-44e5-97ae-29334835f111,25,धन्यवाद। मे लूँगा।,Thanks. I will.
+231,dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c,1,"हाँ, मुझे एक उबेर ऑर्डर करना है, प्लीज।","Yeah, I need to order an Uber, please."
+233,dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c,3,यह न्यूयॉर्क शहर में 15 मेन स्ट्रीट होने जा रहा है,It's going to be 15 Main Street in New York City
+235,dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c,5,एएमसी थियेटर।,the AMC Theater.
+237,dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c,7,"हमें एक उबरएक्स की आवश्यकता होगी क्योंकि हमारे पास छह लोग हैं। या, शायद एक उबरएक्सएल मेरा मतलब है, क्षमा करें।","We're going to need an UberX because cus we have six people. Or, maybe an UberXL I mean, sorry."
+239,dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c,9,जितनी जल्दी हो सके।,As soon as possible.
+241,dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c,11,बहुत - बहुत धन्यवाद।,Thank you so much.
+244,dlg-30166527-ea04-4697-9c20-e00c18d3106e,1,हाय। मुझे इंटेलिजेंट ऑटो इम्पोर्ट पर अपनी कार रीपेयर करानी है।,Hi. I need to get my car repaired at Intelligent auto imports.
+246,dlg-30166527-ea04-4697-9c20-e00c18d3106e,3,मेरा नाम जॉन स्मिथ है।,My name is John Smith.
+248,dlg-30166527-ea04-4697-9c20-e00c18d3106e,5,555-555-5555.,555-555-5555.
+250,dlg-30166527-ea04-4697-9c20-e00c18d3106e,7,हां।,Yes.
+252,dlg-30166527-ea04-4697-9c20-e00c18d3106e,9,यह 2010 का सुबारू आउटबैक है।,It is a 2010 Subaru Outback.
+254,dlg-30166527-ea04-4697-9c20-e00c18d3106e,11,किसी कारण से कार में कई लाइटे जल जाती हैं।,For some reason several lights are out in the car.
+256,dlg-30166527-ea04-4697-9c20-e00c18d3106e,13,एक्स्टेरियर लाइट,exterior lights.
+258,dlg-30166527-ea04-4697-9c20-e00c18d3106e,15,आज दोपहर 3:00 बजे,today at 3:00 p.m.
+261,dlg-30166527-ea04-4697-9c20-e00c18d3106e,18,ठीक है।,Okay.
+263,dlg-30166527-ea04-4697-9c20-e00c18d3106e,20,ठीक है।,Okay.
+266,dlg-30166527-ea04-4697-9c20-e00c18d3106e,23,नहीं।,No.
+269,dlg-311d4f4c-55ed-4771-9716-89539a373770,1,बेला लूना से पिज्जा ऑर्डर करें।,Order pizza from Bella Luna.
+271,dlg-311d4f4c-55ed-4771-9716-89539a373770,3,तीन,Three.
+273,dlg-311d4f4c-55ed-4771-9716-89539a373770,5,स्माल।,Small.
+275,dlg-311d4f4c-55ed-4771-9716-89539a373770,7,सभी के लिए मीट लवर।,Meat Lovers for all.
+277,dlg-311d4f4c-55ed-4771-9716-89539a373770,9,ग्लूटेन-फ्री क्रस्ट,Gluten-free crust.
+279,dlg-311d4f4c-55ed-4771-9716-89539a373770,11,नहीं।,No.
+281,dlg-311d4f4c-55ed-4771-9716-89539a373770,13,हां।,Yes.
+283,dlg-311d4f4c-55ed-4771-9716-89539a373770,15,ठीक है।,Okay.
+285,dlg-311d4f4c-55ed-4771-9716-89539a373770,17,ठीक है।,Okay.
+288,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,1,"हाय, आप कैसे हैं?","Hi, how are you?"
+290,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,3,"मैं बहुत बढ़िया हूँ। मुझे ग्रीनवुड मॉल से पिकअप करना है, प्लीज।","I'm wonderful. I need to get picked up from Greenwood Mall, please."
+291,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,4,"इंडियानापोलिस, इंडियाना या ग्रीनवुड, इंडियाना में।","in Indianapolis, Indiana or Greenwood, Indiana."
+294,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,7,मैं इंडियानापोलिस में फैशन मॉल जाना चाहूंगा।,I would like to go to the Fashion Mall in Indianapolis.
+296,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,9,"हाँ, जितनी जल्दी हो सके।","Yes, as soon as possible."
+298,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,11,"यह छह लोगों के लिए है, प्लीज। सवारी टाइप के लिए मेरी प्राथमिकता एक्सल उबर है।","That's for six people, please. My preference for ride type is the XL Uber."
+301,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,14,"अच्छा, यह शानदार लगता है।","Well, that sounds fantastic."
+303,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,16,हां।,Yes.
+306,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,19,यह बढ़िया है।,That's fantastic.
+308,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,21,शानदार। यात्रा की अनुमानित अवधि क्या है?,Fantastic. What's the estimated duration of the trip?
+310,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,23,"ठीक है, यह शानदार है। धन्यवाद।","Okay, that's fantastic. Thank you."
+312,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,25,"ऩहीं, बस इतना ही। वैलेंटाइन्स डे कि शुभ कामना।","No, that's all. Happy Valentines Day."
+315,dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093,28,"धन्यवाद, आपका दिन मंगलमय हो।","Thank you, have a wonderful day."
+321,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,2,मुझे पिज्जा ऑर्डर करना है।,I want to order a pizza.
+322,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,3,मुझे पिज्जा ऑर्डर करना है।,I want to order a pizza.
+325,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,6,तीन पिज्जा,three pizza.
+326,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,7,तीन पिज्जा,three pizza.
+329,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,10,मीडियम साइज,medium size.
+330,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,11,मीडियम साइज,medium size.
+331,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,12,याह।,Yeah.
+332,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,13,याह।,Yeah.
+335,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,16,चिकन बारबेक्यू।,a chicken barbecue.
+336,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,17,चिकन बारबेक्यू।,a chicken barbecue.
+341,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,22,मुझे 10 क्रेस्ट चाहिए।,I need 10 Crest.
+342,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,23,मुझे थिन क्रस्ट चाहिए।,I need thin Crust.
+345,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,26,ठीक है।,Okay.
+346,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,27,ठीक है।,Okay.
+349,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,30,ठीक है। आपका बहुत बहुत धन्यवाद। आपका दिन शुभ हो।,Okay. Thank you very much. Have a nice day.
+350,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,31,ठीक है। आपका बहुत बहुत धन्यवाद। आपका दिन शुभ हो।,Okay. Thank you very much. Have a nice day.
+353,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,34,अलविदा।,Bye.
+354,dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47,35,अलविदा।,Bye.
+356,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,1,हैलो। मैं एक सवारी के लिए एक टैक्सी बुक करना चाहता हूँ।,Hello. I want to book a taxi for a ride.
+358,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,3,याह।,Yeah.
+360,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,5,मैं एक सर्टेन मॉल में जाना चाहता हूँ।,I want to got to the a certain mall.
+362,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,7,"हाँ, सही है।","Yeah, that's right."
+364,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,9,याह।,Yeah.
+365,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,10,ठीक है गूगल।,Ok Google.
+368,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,13,याह।,Yeah.
+370,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,15,मैं डेलोस से हूं डेलोस से डेलोस स्पोर्ट्स वैन्यू।,I'm from Delos Delos sport venue from Delos.
+373,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,18,हां। हां। ये सही है।,Yeah. Yeah. That's right.
+375,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,20,क्या आप इसे दोहरा सकते हैं?,Can you repeat it?
+377,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,22,हाँ यह सही है।,"Yeah, that's right."
+379,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,24,हां यकीनन।,"Yeah, sure."
+382,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,27,याह,Yeah.
+385,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,30,ठीक है। कूल।,"Okay, cool."
+388,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,33,कौन सा रोल बेहतर है?,What roll is better?
+390,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,35,"हाँ, यह मेरे लिए ठीक है।","Yeah, that does okay for me."
+391,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,36,मैं एक सवारी बुक करना चाहता हूँ।,I want to book a ride.
+396,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,41,क्या आप मेरे लिए राइड बुक कर सकते हैं? हां धन्यवाद।,"Can you book a ride for me? Yeah, thank you."
+399,dlg-481393f6-4bac-4e3a-9226-004f221ecda7,44,आपका दिन शुभ हो।,Have a nice day.
+402,dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a,1,"हाय, क्या आप स्टारबक्स से ऑर्डर करने में मेरी मदद कर सकते हैं?","Hi, could you help me with ordering from Starbucks?"
+404,dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a,3,मुझे एक कारमेल मैकचीआटो चाहिए.,I would like a Carame Macchiato.
+406,dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a,5,हां।,Yes.
+408,dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a,7,2 परसेन्ट,2%.
+410,dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a,9,"एक ग्रांड, प्लीज","A grande, please."
+412,dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a,11,"जेनकिंटाउन, पेनसिल्वेनिया में ओल्ड यॉर्क रोड पर है एक।","The one on Old York Road in Jenkintown, Pennsylvania."
+414,dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a,13,धन्यवाद।,Thank you.
+416,dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a,15,सही।,Correct.
+418,dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a,17,बहुत - बहुत धन्यवाद। मैं इसकी सराहना करता हूं।,Thank you so much. I appreciate it.
+420,dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a,19,मे लूँगा।,I will.
+422,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,1,मैं एक रेस्टोरेंट ढूंढ रहा हूं।,I'm looking for a restaurant.
+424,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,3,हां।,Yes.
+426,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,5,सैन फ्रांसिस्को।,San Francisco.
+428,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,7,भारतीय भोजन।,Indian food.
+430,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,9,बैठ जाओ।,Sit-down.
+432,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,11,सस्ता।,inexpensive.
+436,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,15,पहला क्या था?,What was the first one?
+440,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,19,क्या इसमें एक फुल बार है?,Does it have a full bar?
+442,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,21,क्या वे आरक्षण लेते हैं?,Do they take reservations?
+444,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,23,मैं रितु लूंगा।,I'll take Ritu.
+447,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,26,26 जनवरी शाम 6:00 बजे।,January 26th at 6:00 p.m.
+449,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,28,तीन लोग।,Three people.
+450,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,29,और एक आउटडोर टेबल।,and an outdoor table.
+452,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,31,"हाँ, मैं इसे लूँगा।","Yes, I'll take it."
+455,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,34,धन्यवाद।,Thank you.
+457,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,36,दुबारा से रीजर्वेशन की तारीख क्या है?,What are the What's the reservation date again?
+459,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,38,ठीक है धन्यवाद।,"Okay, thanks."
+462,dlg-4e06cbb9-8607-4157-921f-785fb206d28b,41,बस हो गया।,That's it.
+464,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,1,मैं सैन फ़्रांसिस्को में एक रेस्टोरेंट ढूँढ रहा हूँ।,I am looking for a restaurant in San Francisco.
+465,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,2,सैन फ्रांसिस्को में नए रेस्तरां हाँ।,new restaurants in San Francisco Yes.
+469,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,6,मुझे एक इटैलियन फ़ूड रेस्तरां चाहिए।,I'd like an Italian food restaurant.
+471,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,8,"हां, मुझे एक ऐसा रेस्तरां चाहिए जिसमें शराब, विशेषतः शराब, बाहर बैठने की जगह और लाइव म्यूजिक हो।","Yes, I'd like a restaurant that has sorts of alcohol, preferably wine, has outdoor sitting, and live music."
+475,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,12,"हां। दूसरा, क्या उनके पास लाइव म्यूजिक है? और आधुनिक इतालवी भोजन का क्या अर्थ है?","Yes. The second one, do they have live music? And what is modern Italian food mean?"
+477,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,14,"ठीक है, और आधुनिक इतालवी भोजन क्या है?","Okay, and what is modern Italian food?"
+479,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,16,"ठीक है। और पहले वाले के लिए आपने पिज्जा मेंन्शन किया था। क्या वे सर्व करते हैं क्या यह सिर्फ एक पिज्जा प्लेस है, या क्या उन्हें पास्ता, सीफूड इतालवी भोजन भी पसंद है?","Okay. And for the first one, you had mentioned pizza. Do they serve Is it just a pizza place, or do they have like pasta, seafood Italian food, too?"
+481,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,18,ठीक है बहुत बढ़िया। मुझे लगता है कि मैं दूसरे के लिए आरक्षण करूंगा।,"Okay, great. I think I'll make a reservation for the second one."
+484,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,21,27 जनवरी रविवार को कैसा रहेगा?,"How about Sunday, January 27th?"
+486,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,23,शाम के 8:00 बजे।,8:00 p.m.
+488,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,25,सात।,seven.
+491,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,28,"हाँ, लेकिन क्या आप हमें बाहर की सीट के लिए भी रिज़र्वेशन दे सकते हैं?","Yes, but also can you give us a reservation for a seat outside?"
+495,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,32,"हां, प्लीज।","Yes, please."
+499,dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d,36,"ओह, बस इतना ही। धन्यवाद।","Oh, that's it. Thanks."
